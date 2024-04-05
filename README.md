@@ -1,1 +1,1 @@
-# WDI2024-Metaprogramming
+# Metaprogramming-PyCon-2023
